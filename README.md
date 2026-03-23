@@ -38,7 +38,7 @@ Run the notebook cells in order:
 ---
 
 
-<img width="96.0" height="135.8" alt="a-z 0-9" src="https://github.com/user-attachments/assets/9c882413-6aad-4a53-82bc-a256b78d5a85" />
+<img width="480" height="679" alt="a-z 0-9" src="https://github.com/user-attachments/assets/9c882413-6aad-4a53-82bc-a256b78d5a85" />
 
 
 *Based on work by Computer Vision Developer — MIT License*
