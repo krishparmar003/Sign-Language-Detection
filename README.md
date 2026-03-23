@@ -30,6 +30,14 @@ Run the notebook cells in order:
 4. `Inference` — run real-time detection
 
 ---
+## Tech Stack
+- **Hand Detection** — MediaPipe (21 landmarks per hand)
+- **Classifier** — Random Forest (scikit-learn)
+- **Camera/Video** — OpenCV
+
+---
+
+*Based on work by Computer Vision Developer — MIT License*
 
 <img width="960" height="1358" alt="a-z 0-9" src="https://github.com/user-attachments/assets/9c882413-6aad-4a53-82bc-a256b78d5a85" />
 
