@@ -13,6 +13,8 @@ Built with MediaPipe, OpenCV, and scikit-learn.
 3. **Train** — Random Forest Classifier trained on the landmark coordinates
 4. **Detect** — Real-time prediction overlaid on the webcam feed
 
+<img width="408" height="329" alt="outputt" src="https://github.com/user-attachments/assets/f3d32645-b635-4220-8805-23ab5acddb2c" />
+
 ---
 
 ## Setup
